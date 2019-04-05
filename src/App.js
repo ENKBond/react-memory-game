@@ -29,7 +29,7 @@ class App extends Component {
    };
  
  handleCorrectGuess = newData => {
-    //  const score  = this.state;
+     const score  = this.state.score;
      const newScore = score + 1;
  
      this.setState({
