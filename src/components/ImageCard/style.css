@@ -1,0 +1,14 @@
+.img-container {
+    width: 140px;
+    height: 200px;
+    display: inline-block;
+    border-style: outset;
+    margin: 10px;
+    background-color: #ffffcc;
+}
+
+img {
+    width: 120px;
+    height: 180px;
+}
+

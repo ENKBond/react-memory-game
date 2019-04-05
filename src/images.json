@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "air-france",
+        "image": "assets/air-france.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "barcelona",
+        "image": "assets/barcelona.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "belize",
+        "image": "assets/belize.jpeg",
+        "clicked":false
+    },
+    {
+        "id": 4,
+        "name": "el-al",
+        "image": "assets/el-al.jpeg",
+        "clicked":false
+    },
+    {
+        "id": 5,
+        "name": "hong-kong",
+        "image": "assets/hong-kong.jpg",
+        "clicked":false
+    },
+    {
+        "id":6,
+        "name": "london",
+        "image":"assets/london.jpg",
+        "clicked":false
+    },
+    {
+        "id":7,
+        "name": "palm-springs",
+        "image": "assets/palm-springs.jpg",
+        "clicked":false
+    },
+    {
+        "id": 8,
+        "name": "paris",
+        "image": "assets/paris.jpg",
+        "clicked":false
+    },
+    {
+        "id": 9,
+        "name": "rome",
+        "image":"assets/rome.jpg",
+        "clicked":false
+    },
+    {
+        "id": 10,
+        "name": "space-needle",
+        "image": "assets/space-needle.jpg",
+        "clicked":false
+    },
+    {
+        "id": 11,
+        "name": "stockholm",
+        "image": "assets/stockholm.jpg",
+        "clicked":false
+    },
+    {
+        "id": 12,
+        "name": "venice",
+        "image": "assets/venice.jpg",
+        "clicked":false
+    },
+    {
+        "id": 13,
+        "name": "austin",
+        "image": "assets/austin.jpg",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "hawaii",
+        "image": "assets/hawaii.jpg",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "name": "vancouver",
+        "image": "assets/vancouver.jpg",
+        "cliced": false
+    }
+]

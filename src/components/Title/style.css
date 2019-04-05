@@ -1,0 +1,19 @@
+.title-bar {
+    width: 100%;
+    background-color: #00e6e6;
+    padding: 1%;
+}
+
+.title {
+    font-family: 'Fontdiner Swanky', cursive;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.star {
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+}
